@@ -1,2 +1,2 @@
-
-print("Hello from sample_script.py!")
+def hello_world():
+    return "Hello World!"
